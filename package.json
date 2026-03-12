@@ -2,6 +2,8 @@
   "name": "cylinder",
   "private": true,
   "version": "0.0.0",
+"homepage": "https://shanmathisundarrajan.github.io/Easy-Gas"
+
   "type": "module",
   "scripts": {
     "dev": "vite",
